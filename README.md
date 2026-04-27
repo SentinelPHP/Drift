@@ -118,4 +118,4 @@ echo "Changed: " . count($result->changed); // name
 
 ## License
 
-MIT
+GPL v3 — see LICENSE for details

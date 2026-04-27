@@ -2,7 +2,7 @@
     "name": "sentinelphp/drift",
     "description": "API schema drift detection and classification library",
     "type": "library",
-    "license": "MIT",
+    "license": "GPL-3.0-or-later",
     "keywords": ["api", "drift", "schema", "detection", "monitoring"],
     "homepage": "https://github.com/SentinelPHP/drift",
     "authors": [
